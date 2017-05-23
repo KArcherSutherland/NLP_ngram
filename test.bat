@@ -1,0 +1,1 @@
+perl ngram.pl 3 10 deforestation.txt

@@ -1,0 +1,95 @@
+Script started on Wed 22 Feb 2017 10:08:38 PM EST
+
+
+
+
+ 
+]0;kyle@kyle-VirtualBox: ~/Downloads[01;32mkyle@kyle-VirtualBox[00m:[01;34m~/Downloads[00m$ time perl ngram.pl 2 10 1342.txt 1342-0.txt 13 
+99-0.txt 2600-0.txt
+
+me, on mother-of-pearl shells and inconceivable without washing wharf torn to supplies by enraptured, and blinder, and laughter: “and i’ll work here now: once thoughts and likely captain of hostility .
+
+he, your pockets. <start> .
+
+allez-vous promener” * large provincial rostóvs were poisoned atmosphere saturated by the hotel-keeper and vicious and unconsciously, oblivious of those recently written an intrigue with cold, and geometry were accomplishing many children through london master would smile, "they’ve sent caroline an impression of when levin, conscious of battle—heaven knows this
+pressing .
+�gentlemen� said nikolay. <start> .
+
+barsad. <start> .
+"now go," said someone has arrived.
+ <start> .
+happiness be inevitable .
+
+“especially such invalids who or intermittently but dokhtúrov was injury on writing. <start> .
+
+left as minister and disuse .
+
+
+real	1m6.220s
+
+user	0m21.600s
+
+sys	0m0.096s
+
+]0;kyle@kyle-VirtualBox: ~/Downloads[01;32mkyle@kyle-VirtualBox[00m:[01;34m~/Downloads[00m$ time perl ngram.pl 3 10 1342.txt 1342-0.txt 13 
+99-0.txt 2600-0.txt
+
+disgrace the russian army expecting napoleon to come again tomorrow .
+
+, “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw “edw
+austerlitz with the outer walls in among them borís, entered more deeply and beg leave to say he is saying .
+
+��how long� i asked, �has this lasted only a husband to disobey him on the shoulder, hoarsely and unexpectedly into the second: not there and mrs .
+"marya nikolaevna you come in. <start> <start> .
+
+“hush .
+sure to smile .
+
+_"zu compliziert, macht zu viel klopot,"_ he concluded that this general movement those who look for alexey alexandrovitch i told lucie so .
+
+"that’s so much stronger that evening vainly expecting someone, now smiling at my genius .
+
+stubbornly as though ashamed even to pass in and hand it to commit nuisances in all these excellent persons for whom the general headquarters of the album he was trying to sleep, and keep it; it was moving from the pain distracted him .
+
+
+real	1m50.730s
+
+user	0m42.456s
+
+sys	0m0.388s
+
+]0;kyle@kyle-VirtualBox: ~/Downloads[01;32mkyle@kyle-VirtualBox[00m:[01;34m~/Downloads[00m$ time perl ngram.pl 4 10 1342.txt 1342-0.txt 13 
+99-0.txt 2600-0.txt
+
+hence bagratión with his four thousand hungry exhausted men would have to expose his life to keep a good cook and that her daughters had nothing to hope from him—especially as he did at last enter first .
+
+man’s free will differs from every other force in that .
+samples of a people .
+
+"hi, something for the streets that environed that house and for the first time presented itself to the prisoner�s servant and had engendered in him a special tenderness, as it were, of the return of anna arkadyevna and he was so accustomed to that he answered: �your confidence in me
+
+dental surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon. surgeon.
+
+“scoundrel what are you going away? <start> <start> <start> .
+
+�save him now my doctor, save him! <start> <start> <start> .
+�save him now my doctor, save him! <start> <start> <start> .
+
+hitherto each individual desire aroused by suffering or privation, such as hunger, fatigue thirst, had been satisfied by some bodily function giving pleasure .
+_mais c’est ridicule! <start> <start> <start> .
+
+
+real	2m18.035s
+
+user	1m8.192s
+
+sys	0m0.292s
+
+]0;kyle@kyle-VirtualBox: ~/Downloads[01;32mkyle@kyle-VirtualBox[00m:[01;34m~/Downloads[00m$ exit
+exit
+
+Script done on Wed 22 Feb 2017 10:14:46 PM EST
+
+
+
+
